@@ -1,0 +1,945 @@
+['Bagel', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bagel']
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Milk']
+['Meat', 'Wine', 'Pencil']
+-------------
+['Cheese', 'Meat']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Bread', 'Meat', 'Diaper', 'Milk']
+['Eggs', 'Wine', 'Cheese', 'Pencil']
+-------------
+['Eggs', 'Meat', 'Cheese', 'Wine']
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Milk']
+-------------
+['Bagel', 'Meat', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bread', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Cheese', 'Pencil']
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Wine', 'Cheese', 'Milk']
+['Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Wine']
+['Cheese', 'Bagel', 'Meat', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper', 'Bagel', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Bread', 'Meat']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Wine', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Bagel', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Bread', 'Meat', 'Pencil']
+-------------
+['Diaper', 'Bagel']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Bread', 'Wine', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper']
+-------------
+['Cheese', 'Bagel', 'Bread', 'Milk']
+['Eggs', 'Pencil', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Wine', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Pencil']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bagel']
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Bread']
+-------------
+['Bagel', 'Wine', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+['Diaper', 'Meat']
+-------------
+['Eggs', 'Meat', 'Milk', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Cheese', 'Milk', 'Pencil']
+['Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bagel', 'Meat', 'Pencil']
+['Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Meat']
+-------------
+['Diaper', 'Meat']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+-------------
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Milk']
+['Diaper', 'Meat', 'Wine']
+-------------
+['Meat', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+['Eggs', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+['Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Eggs', 'Meat', 'Cheese', 'Pencil']
+['Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Milk', 'Pencil']
+['Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Bagel', 'Bread', 'Meat']
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Eggs', 'Diaper']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Bagel', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Milk']
+['Cheese', 'Diaper', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese']
+['Pencil', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Bread', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine']
+-------------
+['Bagel', 'Meat', 'Wine']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Pencil', 'Milk']
+-------------
+['Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel', 'Bread']
+-------------
+['Eggs', 'Wine', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Wine']
+['Diaper', 'Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bread']
+-------------
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Wine']
+['Eggs', 'Diaper', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Cheese', 'Meat', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Wine', 'Milk', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Meat', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper']
+['Cheese', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Bagel']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Milk']
+['Diaper', 'Wine', 'Pencil']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Meat', 'Cheese']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Meat', 'Pencil']
+-------------
+['Diaper', 'Bread', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Wine']
+-------------
+['Eggs', 'Diaper', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Diaper', 'Bagel', 'Milk']
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Wine']
+-------------
+['Eggs', 'Diaper']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bread', 'Meat']
+['Pencil', 'Bagel', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Bread', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine']
+-------------
+['Bread', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Meat']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Milk']
+['Cheese', 'Diaper', 'Bread', 'Wine']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Milk']
+['Bagel', 'Meat', 'Wine', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Milk']
+['Bread', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Meat']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bread', 'Wine', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Milk']
+['Eggs', 'Diaper', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+['Diaper', 'Meat']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper']
+['Bread', 'Wine', 'Milk', 'Pencil']
+-------------
+['Cheese', 'Diaper']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bread', 'Meat', 'Pencil']
+['Bagel', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Diaper', 'Meat', 'Wine', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread']
+-------------
+['Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bread', 'Cheese']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+['Meat', 'Milk', 'Pencil']
+-------------
+['Bagel', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Meat']
+-------------
+['Cheese', 'Diaper', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Bagel']
+-------------
+['Eggs', 'Bread', 'Cheese', 'Milk']
+['Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Milk', 'Pencil']
+-------------
+['Cheese', 'Bread', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Diaper', 'Wine']
+-------------
+['Diaper', 'Bagel']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread', 'Pencil']
+-------------
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper']
+['Eggs', 'Bagel', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bread']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Wine']
+['Diaper', 'Bread', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Eggs', 'Cheese', 'Milk', 'Pencil']
+['Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bagel']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Milk']
+['Diaper', 'Wine']
+-------------
+['Bread', 'Wine', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper']
+-------------
+['Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel', 'Bread', 'Pencil']
+-------------
+['Diaper', 'Bagel']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Meat', 'Pencil']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Pencil']
+-------------
+['Diaper', 'Wine', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat']
+-------------
+['Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine']
+['Eggs', 'Bread', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Milk']
+-------------
+['Eggs', 'Diaper', 'Wine', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Meat', 'Milk']
+['Eggs', 'Diaper', 'Bread', 'Wine']
+-------------
+['Diaper', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Diaper', 'Wine']
+['Cheese', 'Bread', 'Meat', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Wine']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread']
+-------------
+['Cheese', 'Wine']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine']
+['Diaper', 'Milk']
+-------------
+['Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Meat', 'Wine']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Milk']
+['Cheese', 'Bagel', 'Meat', 'Wine']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Meat', 'Wine']
+['Eggs', 'Diaper', 'Cheese', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Wine']
+-------------
+['Diaper', 'Bread', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper', 'Bagel']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Meat']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Milk']
+['Eggs', 'Bread', 'Wine']
+-------------
+['Cheese', 'Diaper', 'Meat']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel']
+-------------
+['Diaper', 'Bagel', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Milk']
+['Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Milk']
+['Bread', 'Wine']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Meat']
+-------------
+['Eggs', 'Diaper', 'Bread', 'Meat']
+['Pencil', 'Bagel', 'Cheese', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Meat', 'Wine', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper']
+-------------
+['Eggs', 'Bagel', 'Meat', 'Wine', 'Milk']
+['Cheese', 'Diaper', 'Bread', 'Pencil']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Cheese', 'Wine']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Milk']
+['Pencil', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Cheese']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Milk']
+['Cheese', 'Wine', 'Pencil']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs']
+-------------
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Eggs', 'Pencil', 'Milk']
+-------------
+['Diaper', 'Wine']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bread', 'Cheese', 'Wine']
+['Pencil', 'Bagel', 'Meat', 'Diaper', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Diaper', 'Milk']
+['Cheese', 'Bread', 'Wine']
+-------------
+['Eggs', 'Bagel', 'Meat', 'Wine']
+['Pencil', 'Cheese', 'Bread', 'Diaper', 'Milk']
+-------------
+['Cheese', 'Diaper', 'Bread']
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Wine', 'Milk']
+-------------
+['Cheese', 'Diaper', 'Bagel', 'Pencil']
+['Eggs', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Milk']
+['Pencil', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Wine', 'Milk']
+['Diaper', 'Bread']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Milk']
+['Diaper', 'Bagel', 'Bread', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Milk']
+['Diaper', 'Bread', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper', 'Bagel']
+-------------
+['Diaper', 'Bagel']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Cheese', 'Bagel', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Wine']
+-------------
+['Cheese', 'Bagel', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Milk']
+['Diaper', 'Bread', 'Wine']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Meat', 'Milk']
+['Eggs', 'Diaper', 'Bread', 'Wine']
+-------------
+['Cheese', 'Bagel', 'Meat']
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Bread', 'Meat', 'Diaper', 'Milk']
+['Eggs', 'Wine', 'Cheese', 'Pencil']
+-------------
+['Eggs', 'Meat', 'Cheese', 'Wine']
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Milk']
+-------------
+['Bagel', 'Meat', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bread', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Cheese', 'Pencil']
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Wine', 'Cheese', 'Milk']
+['Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Diaper', 'Wine']
+['Cheese', 'Bagel', 'Meat', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper', 'Bagel', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Bread', 'Meat']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Wine', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Bagel', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Bread', 'Meat', 'Pencil']
+-------------
+['Diaper', 'Bagel']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Bread', 'Wine', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper']
+-------------
+['Cheese', 'Bagel', 'Bread', 'Milk']
+['Eggs', 'Pencil', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Wine', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Pencil']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bagel']
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Bread']
+-------------
+['Bagel', 'Wine', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+['Diaper', 'Meat']
+-------------
+['Eggs', 'Meat', 'Milk', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Cheese', 'Milk', 'Pencil']
+['Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bagel', 'Meat', 'Pencil']
+['Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Meat']
+-------------
+['Diaper', 'Meat']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+-------------
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Milk']
+['Diaper', 'Meat', 'Wine']
+-------------
+['Meat', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Milk']
+['Eggs', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+['Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Eggs', 'Meat', 'Cheese', 'Pencil']
+['Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Milk', 'Pencil']
+['Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Bagel', 'Bread', 'Meat']
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Pencil']
+['Eggs', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Eggs', 'Diaper']
+-------------
+['Diaper', 'Bagel', 'Bread', 'Pencil']
+['Eggs', 'Cheese', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Bagel', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Milk']
+['Cheese', 'Diaper', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese']
+['Pencil', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Bagel', 'Bread', 'Meat', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Diaper', 'Wine']
+-------------
+['Bagel', 'Meat', 'Wine']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Diaper', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Cheese', 'Pencil', 'Milk']
+-------------
+['Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bagel', 'Bread']
+-------------
+['Eggs', 'Wine', 'Milk']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Wine']
+['Diaper', 'Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bread']
+-------------
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Wine']
+['Eggs', 'Diaper', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Cheese', 'Meat', 'Milk', 'Pencil']
+-------------
+['Eggs', 'Wine', 'Milk', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Meat', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+['Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Bread', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Diaper']
+['Cheese', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Bagel']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Milk']
+['Diaper', 'Wine', 'Pencil']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Meat', 'Cheese']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Bagel', 'Meat', 'Pencil']
+-------------
+['Diaper', 'Bread', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Wine']
+-------------
+['Eggs', 'Diaper', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Diaper', 'Bagel', 'Milk']
+['Pencil', 'Cheese', 'Bread', 'Meat', 'Wine']
+-------------
+['Eggs', 'Diaper']
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bread', 'Meat']
+['Pencil', 'Bagel', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Bread', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine']
+-------------
+['Bread', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Meat']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Meat', 'Milk']
+['Cheese', 'Diaper', 'Bread', 'Wine']
+-------------
+['Eggs', 'Cheese', 'Bread', 'Diaper', 'Milk']
+['Bagel', 'Meat', 'Wine', 'Pencil']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Meat', 'Diaper', 'Milk']
+['Bread', 'Wine']
+-------------
+['Diaper', 'Bagel', 'Meat']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Wine', 'Milk']
+-------------
+['Diaper', 'Bread', 'Wine', 'Pencil']
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine']
+['Eggs', 'Meat', 'Cheese', 'Milk']
+-------------
+['Pencil', 'Bagel', 'Cheese', 'Bread', 'Milk']
+['Eggs', 'Diaper', 'Meat', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Wine', 'Milk']
+['Diaper', 'Meat']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Meat', 'Diaper']
+['Bread', 'Wine', 'Milk', 'Pencil']
+-------------
+['Cheese', 'Diaper']
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Meat', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil']
+['Bagel', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Bread', 'Meat', 'Pencil']
+['Bagel', 'Cheese', 'Diaper', 'Wine', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Cheese', 'Meat', 'Diaper', 'Wine']
+['Bagel', 'Bread', 'Milk']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread', 'Meat', 'Wine', 'Milk']
+['Diaper']
+-------------
+['Diaper', 'Meat', 'Wine', 'Milk']
+['Eggs', 'Pencil', 'Bagel', 'Cheese', 'Bread']
+-------------
+['Pencil', 'Bagel', 'Meat', 'Diaper', 'Wine', 'Milk']
+['Eggs', 'Bread', 'Cheese']
+-------------
+['Eggs', 'Bagel', 'Cheese', 'Bread', 'Diaper', 'Wine']
+['Meat', 'Milk', 'Pencil']
+-------------
+['Bagel', 'Milk']
+['Eggs', 'Pencil', 'Cheese', 'Bread', 'Meat', 'Diaper', 'Wine']
+-------------
+['Eggs', 'Pencil', 'Bagel', 'Bread', 'Diaper', 'Wine', 'Milk']
+['Cheese', 'Meat']
+-------------
+['Cheese', 'Diaper', 'Milk', 'Pencil']
+['Eggs', 'Bagel', 'Bread', 'Meat', 'Wine']
+-------------
